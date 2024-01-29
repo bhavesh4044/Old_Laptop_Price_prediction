@@ -1,0 +1,18 @@
+Brand,Model,Processor,RAM (GB),Storage (GB),Year of Release,Age (Years),Actual Price (Rs),Old Laptop Selling Price (Rs),Screen Damage,Charger Availability,Keyword Working,Battery Health (%),Physical Condition,Operating System
+Dell,Inspiron 15,i5,8,500,2015,7,55000,25000,0,1,1,75,Good,Windows 10
+HP,Pavilion x360,m3,4,256,2016,6,48000,20000,1,1,1,85,Fair,Windows 10
+Lenovo,ThinkPad T450s,i7,12,1TB,2015,7,70000,30000,0,1,1,90,Excellent,Windows 10
+Apple,MacBook Air,i5,8,128,2014,8,80000,25000,0,0,1,60,Fair,macOS Sierra
+Acer,Aspire E15,i3,6,500,2017,5,40000,15000,1,1,1,70,Good,Windows 10
+Asus,VivoBook S,i7,16,512,2016,6,85000,35000,0,0,1,80,Excellent,Windows 10
+Toshiba,Satellite Radius 15,i7,8,750,2015,7,60000,22000,0,1,1,65,Fair,Windows 8.1
+Sony,Vaio Pro 13,i5,4,256,2014,8,75000,28000,1,0,0,50,Poor,Windows 7
+Samsung,ATIV Book 9,i7,8,256,2014,8,78000,30000,0,1,1,75,Good,Windows 10
+MSI,GS70 Stealth,i7,16,1TB,2014,8,90000,40000,0,1,1,85,Excellent,Windows 10
+HP,EliteBook 840 G3,i5,8,256,2016,6,60000,28000,0,1,1,70,Fair,Windows 10
+Acer,Swift 3,i5,8,512,2018,4,65000,30000,0,1,1,80,Good,Windows 10
+Lenovo,IdeaPad 330,i3,4,1TB,2017,5,35000,18000,0,1,1,60,Fair,Windows 10
+Dell,XPS 13,i7,16,512,2019,3,90000,45000,0,1,1,90,Excellent,Windows 10
+HP,Spectre x360,i7,16,1TB,2018,4,95000,50000,1,1,1,85,Fair,Windows 10
+Apple,MacBook Pro,i9,32,1TB,2020,2,180000,90000,0,1,1,95,Excellent,macOS Big Sur
+Asus,ROG Strix G,i7,16,512,2019,3,120000,60000,0,1,1,85,Good,Windows 10
